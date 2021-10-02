@@ -1,4 +1,4 @@
-# LGM_internship_work
+# Project_work
 Internship project at Lets Grow More<BR> 
 Iris Flower Classification Using KNeighboursClassifier <br>
 
